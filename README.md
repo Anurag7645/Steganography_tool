@@ -1,4 +1,5 @@
 # Steganography Tool with AES Encryption
+#### Author: D4rkN0d3
 
 ## Overview
 This project implements a **steganography tool** that allows users to **hide and extract text from images** using **AES encryption** for added security. The tool provides both a **command-line interface (CLI)** and a **graphical user interface (GUI)** using Tkinter.
