@@ -1,0 +1,4 @@
+pillow
+stepic
+pycryptodome
+tk
